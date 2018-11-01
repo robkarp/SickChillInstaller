@@ -1,4 +1,4 @@
-SickChillInstaller [![Build status](https://ci.appveyor.com/api/projects/status/yub1d59qlfub8uvb/branch/master?svg=true)](https://ci.appveyor.com/project/miigotu/sickchillinstaller/branch/master)
+SickChillInstaller [![Build status](https://ci.appveyor.com/api/projects/status/yub1d59qlfub8uvb/branch/master?svg=true)](https://ci.appveyor.com/project/robkarp/sickchillinstaller/branch/master)
 ===================================================================================================================================================================================================
 A Windows Installer for SickChill
 
